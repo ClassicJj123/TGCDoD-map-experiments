@@ -60,4 +60,6 @@
 !/TGC Niche Submods/*
 !TGCCountriesEndonymicLocalization
 !TGCCountriesEndonymicLocalization.mod
+!TGCDoD Map Experiments
+!TGCDoD Map Experiments.mod
 *.py

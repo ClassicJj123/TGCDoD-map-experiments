@@ -60,6 +60,8 @@
 !/TGC Niche Submods/*
 !TGCCountriesEndonymicLocalization
 !TGCCountriesEndonymicLocalization.mod
+!TGCDivergencesOfDarknessTest
+!TGCDivergencesOfDarknessTest.
 !TGCDoD Map Experiments
 !TGCDoD Map Experiments.mod
 *.py

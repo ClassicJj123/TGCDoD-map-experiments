@@ -1,0 +1,686 @@
+###################
+###New Provinces###
+###################
+
+##Netherlands##
+
+#Split with 384, 50/50
+3531 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 185
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 200
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 1484
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 1010
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 47
+	}
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 5242
+	}
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 47
+	}
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 15423
+	}
+}
+
+#Split with 380, 50/50
+3533 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 327
+	}
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 238
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 2112
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 517
+	}
+	labourers = {
+		culture = dutch
+		religion = catholic
+		size = 25618
+	}
+}
+
+#Rotterdam
+#Split with 376, 10/90
+#Den Haag
+#Split with 3469, 10/90
+3532 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 62
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 68
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 1840
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 688
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 278
+	}
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 9342
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 2686
+	}
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 298
+	}
+}
+
+#Split with 379, 60/40
+3534 = {
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 102
+	}
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 530
+	}
+	officers = {
+		culture = dutch
+		religion = catholic
+		size = 15
+	}
+	bureaucrats = {
+		culture = dutch
+		religion = catholic
+		size = 308
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 300
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 1264
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 872
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 37
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 18800
+	}
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 188
+	}
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 18
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 56
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 1128
+	}
+}
+
+#Split with 3313, 50/50
+3535 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 15
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 20
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 205
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 30
+	}
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 400
+	}
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 25
+	}
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 40
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 55
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 100
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 1444
+	}
+}
+
+##Belgium##
+
+#Split with 391, 5/95
+3536 = {
+    aristocrats = {
+        culture = dutch
+        religion = catholic
+        size = 12
+    }
+
+    clergymen = {
+        culture = dutch
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = dutch
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = catholic
+        size = 30
+    }
+
+    farmers = {
+        culture = dutch
+        religion = catholic
+        size = 1247
+    }
+}
+
+#Split with 394, 50/50
+3564 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 287
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1900
+    }
+
+    craftsmen = {
+        culture = french
+        religion = catholic
+        size = 5804
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 30284
+    }
+}
+
+#Split with 395, 40/60
+3537 = {
+    aristocrats = {
+		culture = french
+		religion = catholic
+		size = 220
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 200
+	}
+
+	clerks = {
+		culture = french
+		religion = catholic
+		size = 5360
+	}
+
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 1400
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 480
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 1240
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 14339
+	}
+}
+
+#Split with 3463, 40/60
+3543 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 280
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 120
+    }
+
+    clerks = {
+        culture = french
+        religion = catholic
+        size = 40
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 880
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 440
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 7856
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 800
+    }
+
+    craftsmen = {
+        culture = french
+        religion = catholic
+        size = 400
+    }
+
+    craftsmen = {
+        culture = french
+        religion = catholic
+        size = 240
+    }
+}
+
+##Germany##
+
+#Split with 575 and 3539, 15/70/15
+3538 = {
+    aristocrats = {
+        culture = north_german
+        religion = catholic
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = catholic
+        size = 270
+    }
+
+    capitalists = {
+        culture = north_german
+        religion = catholic
+        size = 2
+    }
+
+    officers = {
+        culture = north_german
+        religion = catholic
+        size = 75
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = catholic
+        size = 183
+    }
+
+    clerks = {
+        culture = north_german
+        religion = catholic
+        size = 273
+    }
+
+    craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 2175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = north_german
+        religion = catholic
+        size = 453
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = catholic
+        size = 495
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 8276
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1
+    }
+
+    clerks = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 22
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 84
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 1
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 148
+    }
+}
+
+#Split with 575 and 3538, 15/15/70
+3539 = {
+    aristocrats = {
+        culture = north_german
+        religion = catholic
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = catholic
+        size = 270
+    }
+
+    capitalists = {
+        culture = north_german
+        religion = catholic
+        size = 2
+    }
+
+    officers = {
+        culture = north_german
+        religion = catholic
+        size = 75
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = catholic
+        size = 183
+    }
+
+    clerks = {
+        culture = north_german
+        religion = catholic
+        size = 273
+    }
+
+    craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 2175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = north_german
+        religion = catholic
+        size = 453
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = catholic
+        size = 495
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 8276
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1
+    }
+
+    clerks = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 22
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 84
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 1
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 148
+    }
+}
+
+#Split with 576, 10/90
+3540 = {
+    aristocrats = {
+        culture = north_german
+        religion = catholic
+        size = 70
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = catholic
+        size = 65
+    }
+
+    artisans = {
+        culture = north_german
+        religion = catholic
+        size = 400
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = catholic
+        size = 220
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 7273
+    }
+}

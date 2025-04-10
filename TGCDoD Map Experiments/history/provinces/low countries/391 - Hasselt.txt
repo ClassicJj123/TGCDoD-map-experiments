@@ -1,0 +1,15 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+add_core = FLA
+add_core = NET
+trade_goods = coal
+life_rating = 35
+#terrain = 
+
+1836.1.2 = {     
+    owner = LIG     
+    controller = LIG
+    add_core = LIG
+    add_core = BRG
+}

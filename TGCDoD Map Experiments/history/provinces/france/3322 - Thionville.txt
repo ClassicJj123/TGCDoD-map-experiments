@@ -10,4 +10,5 @@ life_rating = 31
     owner = BRG     
     controller = BRG
     add_core = BRG
+    remove_core = FRA
 }

@@ -15,4 +15,5 @@ state_building = {
     owner = BRG     
     controller = BRG
     add_core = BRG
+    remove_core = FRA
 }

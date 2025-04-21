@@ -59,3 +59,41 @@ vassal = {
 	start_date = 1821.1.1
 	end_date = 1999.1.1
 }
+
+# DUA Puppets
+vassal = {
+	first = DUA
+	second = CHM
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}
+vassal = {
+	first = DUA
+	second = BRT
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}
+vassal = {
+	first = DUA
+	second = BLO
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}
+vassal = {
+	first = DUA
+	second = TON
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}
+vassal = {
+	first = DUA
+	second = MNE
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}
+vassal = {
+	first = DUA
+	second = ANJ
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}

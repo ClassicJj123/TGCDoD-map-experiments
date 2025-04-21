@@ -6,7 +6,9 @@ life_rating = 30
 #terrain = farmlands
 
 1836.1.2 = {     
-    owner = BRG     
-    controller = BRG
-    add_core = BRG
+    owner = CHM     
+    controller = CHM
+    add_core = CHM
+    add_core = DUA
+    add_core = FRA
 }

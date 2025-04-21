@@ -4,3 +4,11 @@
 trade_goods = grain
 life_rating = 30
 #terrain = farmlands
+
+1836.1.2 = {     
+    owner = CHM     
+    controller = CHM
+    add_core = CHM
+    add_core = DUA
+    add_core = FRA
+}

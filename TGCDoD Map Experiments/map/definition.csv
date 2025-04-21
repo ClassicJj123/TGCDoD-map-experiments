@@ -3550,12 +3550,12 @@
 3549;207;29;195;Reims;x #Europe #Region = Champagne 
 3550;199;22;187;Estissac;x #Europe #Region = Champagne 
 3551;109;27;191;Joigny;x #Europe #Region = Champagne 
-3552;128;13;111;Tonnerre;x #Europe #Region = Burgundy 
+3552;128;13;111;Langres;x #Europe #Region = Burgundy 
 3553;93;109;199;Nemours;x #Europe #Region = Ile de france
 3554;36;207;23;Montargis;x #Europe #Region = Ile de france
 3555;125;47;204;Sens;x #Europe #Region = Ile de france
 3556;44;194;33;Lamotte Beuvron;x #Europe #Region = Ile de france
-3557;214;103;71;Sancerre;x #Europe #Region = Sancerre
+3557;214;103;71;Varennes Vauzelles;x #Europe #Region = Nevers
 3558;120;138;176;Nogent Le Rotrou;x #Europe #Region = Normandy
 3559;179;43;68;Le Controis en Sologne;x #Europe #Region = Blois
 3560;161;39;61;Vendome;x #Europe #Region = Anjou-Maine-Touraine
@@ -3563,6 +3563,9 @@
 3562;55;189;116;Craon;x #Europe #Region = Anjou-Maine-Touraine
 3563;101;116;148;Dreux;x #Europe #Region = Normandy
 3564;165;147;184;Couvin;x #Europe #Region = Hainaut
+3565;99;15;184;Tonnerre;x #Europe #Region = Burgundy 
+3566;171;90;67;Donzy;x #Europe #Region = Nevers
+3567;131;196;14;Sancerre;x #Europe #Region = Blois
 ;1;222;200;Unnamed Lakes;x
 ;111;17;245;Lake of the Woods;x
 ;111;17;246;Lake Nipissing;x

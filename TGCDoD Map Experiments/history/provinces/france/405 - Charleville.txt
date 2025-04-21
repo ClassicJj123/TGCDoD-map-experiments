@@ -11,4 +11,5 @@ life_rating = 30
     controller = BRG
     add_core = BRG
     add_core = LUX
+    remove_core = FRA
 }

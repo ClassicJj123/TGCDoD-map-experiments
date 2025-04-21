@@ -1,0 +1,13 @@
+#owner = 
+#controller = 
+#add_core = 
+trade_goods = iron
+life_rating = 30
+#terrain = farmlands
+
+1836.1.2 = {     
+    owner = BRG     
+    controller = BRG
+    add_core = BRG
+    remove_core = FRA
+}

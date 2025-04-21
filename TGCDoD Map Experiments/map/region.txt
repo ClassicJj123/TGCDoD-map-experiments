@@ -250,7 +250,9 @@
 
 		FRA_425 = { 425 3354 2570 } # Island of France
 
-		FRA_428 = { 428 429 451 3552 3557 } # Bourgogne
+		FRA_428 = { 428 429 451 3552 3565 } # Bourgogne
+
+		BRG_3557 = { 3557 3566 } #Nevers
 
 		FRA_432 = { 432 431 433 } # Franche-Comté
 
@@ -260,7 +262,7 @@
 
 		FRA_438 = { 438 3556 3555 3553 3554 } # Orléanais
 
-		FRA_439 = { 439 440 3559 3560 3558 3563 426 } # Berry
+		FRA_439 = { 439 440 3559 3560 3558 3563 426 3567 } # Berry
 
 		FRA_442 = { 442 444 } # Saintonge-Angoumois
 

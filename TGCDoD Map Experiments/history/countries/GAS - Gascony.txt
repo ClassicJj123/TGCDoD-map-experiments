@@ -1,0 +1,96 @@
+capital = 406
+primary_culture = occitan
+religion = catholic
+government = dominion
+plurality = 10
+nationalvalue = nv_order
+literacy = 0.6
+civilized = yes
+#schools = tech_school
+#prestige = value
+
+#consciousness = con
+#nonstate_consciousness = n_con
+
+# Political Reforms
+border_policy = open_borders
+centralization = unitary
+citizens_rights = culture_voting_only
+conscription = one_year_draft
+colonial_policy = exploitation
+debt_law = debtors_prisons
+political_parties = non_secret_ballots
+press_rights = censored_press
+public_meetings = yes_meeting
+slavery = yes_slavery
+trade_unions = no_trade_unions
+upper_house_composition = appointed
+vote_franschise = wealth_voting
+voting_system = first_past_the_post
+
+# Social Reforms
+child_labor = child_labor_legal
+health_care = no_health_care
+penal_system = capital_punishment
+pensions = no_pensions
+safety_regulations = no_safety
+school_reforms = no_schools
+unemployment_subsidies = no_subsidies
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+
+# Army Technologies
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+military_staff_system = 1
+army_command_principle = 1
+# Naval Technologies
+post_nelsonian_thought = 1
+clipper_design = 1
+naval_design_bureaus = 1
+alphabetic_flag_signaling = 1
+the_command_principle = 1
+# Commerce Technologies
+private_banks = 1
+no_standard = 1
+early_classical_theory_and_critique = 1
+freedom_of_trade = 1
+guild_based_production = 1
+# Culture Technologies
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+enlightenment_thought = 1
+introspectionism = 1
+# Industry Technologies
+piston_steam_engine = 1
+mechanical_production = 1
+hot_blast = 1
+experimental_railroad = 1
+basic_chemistry = 1
+
+#Starting Politics
+ruling_party = AAA_conservative_3
+#last_election = yyyy.mm.dd
+upper_house = {
+    anarcho_liberal = 0
+    anarchist = 0
+    communist = 0
+    conservative = 83
+    fascist = 0
+    liberal = 12
+    reactionary = 5
+    socialist = 0
+}
+
+#govt_flag = {
+#    government = gov_type
+#    flag = flag_type
+#}
+
+#foreign_investment = {
+#    f_tag1 = amount
+#}
+
+oob = "GAS_oob.txt"

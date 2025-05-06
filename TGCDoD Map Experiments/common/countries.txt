@@ -86,12 +86,12 @@
 	TON		= "countries/Touraine.txt"
 	CHM		= "countries/Champagne.txt"
 	BLO		= "countries/Blois.txt"
-	#AQU	= "countries/Aquitaine.txt"
-	#GAS	= "countries/Gascony.txt"
-	#TOL	= "countries/Toulouse.txt"
-	#AUV	= "countries/Auvergne.txt"
-	#BOB	= "countries/Borbon.txt"
-	#FOR	= "countries/Forez.txt"
+	AQU		= "countries/Aquitaine.txt"
+	GAS		= "countries/Gascony.txt"
+	TOL		= "countries/Toulouse.txt"
+	AUV		= "countries/Auvergne.txt"
+	BOB		= "countries/Borbon.txt"
+	FOR		= "countries/Forez.txt"
 
 
 

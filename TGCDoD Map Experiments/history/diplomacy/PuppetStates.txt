@@ -97,3 +97,39 @@ vassal = {
 	start_date = 1821.1.1
 	end_date = 1999.1.1
 }
+vassal = {
+	first = DUA
+	second = AQU
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}
+vassal = {
+	first = DUA
+	second = GAS
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}
+vassal = {
+	first = DUA
+	second = TOL
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}
+vassal = {
+	first = DUA
+	second = AUV
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}
+vassal = {
+	first = DUA
+	second = BOB
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}
+vassal = {
+	first = DUA
+	second = FOR
+	start_date = 1821.1.1
+	end_date = 1999.1.1
+}

@@ -1,0 +1,15 @@
+#owner = FRA
+#controller = FRA
+#add_core = FRA
+trade_goods = fruit
+life_rating = 30
+#terrain = farmlands
+
+1836.1.2 = {     
+    owner = GAS     
+    controller = GAS
+    add_core = GAS
+    add_core = AQU
+    add_core = DUA
+    add_core = OCC
+}

@@ -24,8 +24,9 @@ state_building = {
 }
 
 1836.1.2 = {     
-    owner = BRG     
-    controller = BRG
-    add_core = BRG
+    owner = DUA     
+    controller = DUA
+    add_core = DUA
+    add_core = OCC
     remove_core = FRA
 }

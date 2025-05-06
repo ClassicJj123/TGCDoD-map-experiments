@@ -10,4 +10,5 @@ life_rating = 30
     owner = ARA     
     controller = ARA
     add_core = ARA
+    remove_core = FRA
 }

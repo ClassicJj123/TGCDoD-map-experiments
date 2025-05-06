@@ -1,0 +1,14 @@
+#owner = FRA
+#controller = FRA
+#add_core = FRA
+trade_goods = cattle
+life_rating = 30
+
+1836.1.2 = {     
+    owner = AQU     
+    controller = AQU
+    add_core = AQU
+    add_core = DUA
+    add_core = OCC
+    remove_core = FRA
+}

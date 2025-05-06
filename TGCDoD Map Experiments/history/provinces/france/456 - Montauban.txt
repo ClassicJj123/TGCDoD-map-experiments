@@ -8,7 +8,9 @@ terrain = urban_toulouse
 #terrain = farmlands
 
 1836.1.2 = {     
-    owner = DUA     
-    controller = DUA
+    owner = TOL     
+    controller = TOL
+    add_core = TOL
     add_core = DUA
+    remove_core = FRA
 }

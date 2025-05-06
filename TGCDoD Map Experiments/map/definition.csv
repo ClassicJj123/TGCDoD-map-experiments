@@ -3529,7 +3529,7 @@
 3528;241;119;255;Sebezh;x
 3529;255;170;165;Rezekne;x
 3530;137;151;255;Ludza;x
-3531;147;49;122;Almelo;x #Europe #Region = Gelderland-Overijssel
+3531;147;49;122;Almelo;x #Europe #Region = Gelderland-Overijssel #Start of Low lands
 3532;54;50;125;Leerdam;x #Europe #Region = Gelderland-Overijssel
 3533;64;60;133;Wijk en Aalburg;x #Europe #Region = Gelderland-Overijssel
 3534;179;179;139;Uden;x #Europe #Region = Brabant
@@ -3542,7 +3542,7 @@
 3541;166;108;138;Thionville;x #Europe #Region = Luxembourg
 3542;128;128;94;Tournai;x #Europe #Region = Hainaut
 3543;227;123;167;Philippeville;x #Europe #Region = Hainaut
-3544;28;74;18;Bethune;x #Europe #Region = Picardy
+3544;28;74;18;Bethune;x #Europe #Region = Picardy #Start of France
 3545;52;143;163;Arras;x #Europe #Region = Picardy
 3546;111;176;46;Denain;x #Europe #Region = Picardy
 3547;94;48;140;Roucy;x #Europe #Region = Champagne 
@@ -3566,6 +3566,25 @@
 3565;99;15;184;Tonnerre;x #Europe #Region = Burgundy 
 3566;171;90;67;Donzy;x #Europe #Region = Nevers
 3567;131;196;14;Sancerre;x #Europe #Region = Blois
+3568;71;24;181;Suris;x #Europe #Region = Poitou #Start of Occitania
+3569;38;77;0;Bellac;x #Europe #Region = Limousin
+3570;184;138;46;Saint Andre de Cubzac;x #Europe #Region = Aquitaine
+3571;166;122;35;Coutras;x #Europe #Region = Aquitaine
+3572;212;133;102;Burdeos;x #Europe #Region = Gascony
+3573;194;114;81;Bazas;x #Europe #Region = Gascony
+3574;84;135;101;La Teste de Buch;x #Europe #Region = Gascony
+3575;62;112;79;Albret;x #Europe #Region = Gascony
+3576;38;83;112;Auch;x #Europe #Region = Gascony
+3577;20;51;71;Plaisance du Touch;x #Europe #Region = Haut-Languedoc
+3578;30;70;97;Pouzac;x #Europe #Region = Gascony
+3579;24;57;79;St Bertrand de Comminges;x #Europe #Region = Gascony
+3580;21;79;56;St Lizier;x #Europe #Region = Haut-Languedoc
+3581;42;194;0;Gourdon;x #Europe #Region = Haut-Languedoc
+3582;86;161;71;Murat;x #Europe #Region = Auvergne
+3583;199;159;80;Mende;x #Europe #Region = Haut-Languedoc
+3584;10;78;105;Albi;x #Europe #Region = Haut-Languedoc
+3585;150;47;194;Gap;x #Europe #Region = Provence
+3586;128;29;171;Grenoble;x #Europe #Region = Dauphine
 ;1;222;200;Unnamed Lakes;x
 ;111;17;245;Lake of the Woods;x
 ;111;17;246;Lake Nipissing;x

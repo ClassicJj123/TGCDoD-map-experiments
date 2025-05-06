@@ -12,4 +12,7 @@ naval_base = 2
     owner = DUA     
     controller = DUA
     add_core = DUA
+    add_core = AQU
+    add_core = OCC
+    remove_core = FRA
 }

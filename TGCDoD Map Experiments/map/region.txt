@@ -250,43 +250,47 @@
 
 		FRA_425 = { 425 3354 2570 } # Island of France
 
-		FRA_428 = { 428 429 451 3552 3565 } # Bourgogne
-
-		BRG_3557 = { 3557 3566 } #Nevers
+		FRA_428 = { 428 429 3552 3565 } # Bourgogne
 
 		FRA_432 = { 432 431 433 } # Franche-Comté
 
-		FRA_434 = { 434 437 443 } # Poitou
+		FRA_434 = { 434 437 443 3568 } # Poitou
 
 		FRA_435 = { 435 436 441 3561 3562 } # Anjou-Maine
 
 		FRA_438 = { 438 3556 3555 3553 3554 } # Orléanais
 
-		FRA_439 = { 439 440 3559 3560 3558 3563 426 3567 } # Berry
+		FRA_439 = { 439 3559 3560 3558 3563 426 3567 } # Berry
 
-		FRA_442 = { 442 444 } # Saintonge-Angoumois
+		FRA_442 = { 442 444 3570 3571 } # Saintonge-Angoumois
 
-		FRA_445 = { 445 446 448 } # Auvergne-Limousin-La Marche
+		FRA_445 = { 445 446 440 3569 } # Auvergne-Limousin-La Marche
 
-		FRA_451 = { 454 469 } # Dauphiné
+		FRA_451 = { 451 452 454 469 3586 } # Dauphiné
 
-		FRA_452 = { 452 430 } # Bourbonnais-Lyonnais
+		FRA_452 = { 430 448 3582 } # Bourbonnais-Lyonnais
 
-		FRA_455 = { 447 450 458 462 } # Aquitaine
+		FRA_455 = { 447 458 } # Aquitaine
 
 		FRA_457 = { 464 3357 } # Roussillon
 
-		FRA_458 = { 455 459 460 } # Gascony
+		FRA_458 = { 455 459 460 3572 3573 3574 3575 3576 3578 3579  } # Gascony
 
-		FRA_461 = { 461 463 456 449 457 453 } # Languedoc
+		FRA_461 = { 461 463 449 457 453 } # Languedoc
 
 		SAR_466 = { 465 466 } # Savoy
 
-		FRA_467 = { 467 468 470 471 } # Provence
+		FRA_467 = { 467 468 470 471 3585 } # Provence
 
 		SAR_472 = { 472 3251 3362 } # Nizza
 
 		FRA_473 = { 473 } # Corsica
+
+		##New Regions##
+
+		BRG_3557 = { 3557 3566 } #Nevers
+
+		FRA_3584 = { 3577 3580 450 3581 462 456 3583 3584 } #Haut-Languedoc
 
 	## Spain & Portugal ##
 

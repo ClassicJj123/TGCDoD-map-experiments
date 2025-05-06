@@ -11,4 +11,5 @@ life_rating = 34
     owner = PRV     
     controller = PRV
     add_core = PRV
+    remove_core = FRA
 }

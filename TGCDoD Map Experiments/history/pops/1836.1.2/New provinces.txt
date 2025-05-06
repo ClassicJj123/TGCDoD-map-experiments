@@ -1604,3 +1604,854 @@
 		size = 99254
 	}
 }
+
+##Occitania##
+
+#Split with 445, 30/70
+3569 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 360
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 225
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 375
+	}
+	clergymen = {
+		culture = occitan
+		religion = catholic
+		size = 150
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 120
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 3000
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 225
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 19365
+	}
+
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 20838
+	}
+}
+
+#Split with 444, 50/50
+3568 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 450 
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 300
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 2500
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 500
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 41891
+	}
+}
+
+#Split with 442 and 3571, 25/50/25
+3570 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 275 #275
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 75 #75
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 175 #175
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 206 #206
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1375 #1375
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 288 #287
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 25709 #25709
+	}
+}
+
+#Split with 442 and 3570, 25/50/25
+3571 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 275
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 75
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 175
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 206
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1375
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 287
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 25709
+	}
+}
+
+#Split with 458 and 3573, 25/50/25
+3572 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 525 #525
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 150 #150
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 375 #375
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 375 #375
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 2500 #2500
+	}
+	artisans = {
+		culture = occitan
+		religion = catholic
+		size = 2500 #2500
+	}
+
+	clergymen = {
+		culture = occitan
+		religion = catholic
+		size = 2500 #2500
+	}
+	artisans = {
+		culture = occitan
+		religion = catholic
+		size = 1500 #1500
+	}
+	craftsmen = {
+		culture = occitan
+		religion = catholic
+		size = 2500 #2500
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 563 #562
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 20335 #20335
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 22416 #22415
+	}
+}
+
+#Split with 458 and 3572, 25/50/25
+3573 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 525
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 150
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 375
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 375
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 2500
+	}
+	artisans = {
+		culture = occitan
+		religion = catholic
+		size = 2500
+	}
+
+	clergymen = {
+		culture = occitan
+		religion = catholic
+		size = 2500
+	}
+	artisans = {
+		culture = occitan
+		religion = catholic
+		size = 1500
+	}
+	craftsmen = {
+		culture = occitan
+		religion = catholic
+		size = 2500
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 562
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 20335
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 22415
+	}
+}
+
+#Split with 459 and 3574, 45/45/10
+3575 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 382 #85
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 349 #77
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 2700 #600
+	}
+	soldiers = {
+		culture = occitan
+		religion = catholic
+		size = 630 #140
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 34528 #7672
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 36467 #3794
+	}
+}
+
+#Split with 459 and 3575, 45/10/45
+3574 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 85
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 77
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 600
+	}
+	soldiers = {
+		culture = occitan
+		religion = catholic
+		size = 140
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 7672
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 3794
+	}
+}
+
+#Split with 455, 3577, 3578 and 3579, 40/40/5/5/10
+3576 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 640 #80 #80 #160
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 140 #18 #17 #35
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 320 #40 #40 #80
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 480 #60 #60 #120
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 2000 #250 #250 #500
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 2000 #250 #250 #500
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 700 #88 #87 #175
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 5204 #651 #650 #1301
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 26920 #3365 #3365 #6730
+	}
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000 #250 #250 #500
+	}
+}
+
+#Split with 455, 3576, 3578 and 3579, 5/40/40/5/10
+3577 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 80 #80 #160
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 18 #17 #35
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 40 #40 #80
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 60 #60 #120
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 250 #250 #500
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 250 #250 #500
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 88 #87 #175
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 651 #650 #1301
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 3365 #3365 #6730
+	}
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 250 #250 #500
+	}
+}
+
+#Split with 455, 3576, 3577 and 3579, 5/40/40/5/10
+3578 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 80 #160
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 17 #35
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 40 #80
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 60 #120
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 250 #500
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 250 #500
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 87 #175
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 650 #1301
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 3365 #6730
+	}
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 250 #500
+	}
+}
+
+#Split with 455, 3576, 3577 and 3578, 10/40/40/5/5
+3579 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 160
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 35
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 80
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 120
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 500
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 500
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 175
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 1301
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 6730
+	}
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 500
+	}
+}
+
+#Split with 457, 50/50
+3580 = {
+	aristocrats = {
+		culture = occitan
+		religion = catholic
+		size = 800
+	}
+	clergymen = {
+		culture = occitan
+		religion = catholic
+		size = 400
+	}
+	artisans = {
+		culture = occitan
+		religion = catholic
+		size = 2500
+	}
+	soldiers = {
+		culture = occitan
+		religion = catholic
+		size = 1250
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 63534
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 12425
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 125
+	}
+}
+
+#Split with 450, 50/50
+3581 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 350
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 212
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1750
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 375
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 20412
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 16688
+	}
+}
+
+#Split with 462, 20/80
+3584 = {
+	aristocrats = {
+		culture = occitan
+		religion = catholic
+		size = 140
+	}
+	clergymen = {
+		culture = occitan
+		religion = catholic
+		size = 90
+	}
+	artisans = {
+		culture = french
+		religion = protestant
+		size = 1000
+	}
+	soldiers = {
+		culture = occitan
+		religion = catholic
+		size = 260
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 13361
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 3696
+	}
+}
+
+#Split with 449, 50/50
+3583 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 550
+	}
+	clergymen = {
+		culture = occitan
+		religion = catholic
+		size = 375
+	}
+	artisans = {
+		culture = occitan
+		religion = catholic
+		size = 2500
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 500
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 30615
+	}
+
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 26175
+	}
+}
+
+#Split with 469 and 3586, 40/50/10
+3585 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 100 #25
+	}
+	clergymen = {
+		culture = occitan
+		religion = catholic
+		size = 40 #10
+	}
+	artisans = {
+		culture = occitan
+		religion = catholic
+		size = 600 #150
+	}
+	soldiers = {
+		culture = occitan
+		religion = catholic
+		size = 140 #35
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 8116 #2029
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 120 #30
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 4000 #1000
+	}
+}
+
+#Split with 469 and 3585, 10/50/40
+3586 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 25
+	}
+	clergymen = {
+		culture = occitan
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = occitan
+		religion = catholic
+		size = 150
+	}
+	soldiers = {
+		culture = occitan
+		religion = catholic
+		size = 35
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 2029
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 30
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 1000
+	}
+}
+
+#Split with 448, 50/50
+3582 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 1750
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 350
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 625
+	}
+	clergymen = {
+		culture = occitan
+		religion = catholic
+		size = 1000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 4000
+	}
+	artisans = {
+		culture = occitan
+		religion = catholic
+		size = 4000
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 1000
+	}
+	farmers = {
+		culture = occitan
+		religion = catholic
+		size = 79790
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 50852
+	}
+}

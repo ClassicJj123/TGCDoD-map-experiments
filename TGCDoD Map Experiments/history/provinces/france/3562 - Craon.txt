@@ -10,4 +10,5 @@ life_rating = 30
     controller = ANJ
     add_core = ANJ
     add_core = DUA
+    add_core = FRA
 }

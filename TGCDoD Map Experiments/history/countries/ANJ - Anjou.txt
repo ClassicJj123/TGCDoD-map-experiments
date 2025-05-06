@@ -1,4 +1,4 @@
-capital = 406
+capital = 435
 primary_culture = french
 religion = catholic
 government = dominion
@@ -93,4 +93,4 @@ upper_house = {
 #    f_tag1 = amount
 #}
 
-oob = "CHM_oob.txt"
+oob = "ANJ_oob.txt"

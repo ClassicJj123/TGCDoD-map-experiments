@@ -1,4 +1,4 @@
-capital = 406
+capital = 3559
 primary_culture = french
 religion = catholic
 government = dominion

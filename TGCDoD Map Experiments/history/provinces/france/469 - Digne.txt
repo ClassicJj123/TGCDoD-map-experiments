@@ -7,7 +7,10 @@ life_rating = 30
 #terrain = farmlands
 
 1836.1.2 = {     
-    owner = PRV     
-    controller = PRV
+    owner = TOL     
+    controller = TOL
+    add_core = TOL
+    add_core = DUA
     add_core = PRV
+    remove_core = FRA
 }

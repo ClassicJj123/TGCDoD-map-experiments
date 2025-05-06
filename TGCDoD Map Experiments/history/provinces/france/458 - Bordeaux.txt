@@ -13,7 +13,10 @@ state_building = {
 }
 
 1836.1.2 = {     
-    owner = DUA     
-    controller = DUA
+    owner = AQU     
+    controller = AQU
+    add_core = AQU
     add_core = DUA
+    add_core = OCC
+    remove_core = FRA
 }

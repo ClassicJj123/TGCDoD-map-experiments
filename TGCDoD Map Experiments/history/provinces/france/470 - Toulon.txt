@@ -29,4 +29,5 @@ state_building = {
     owner = PRV     
     controller = PRV
     add_core = PRV
+    remove_core = FRA
 }
